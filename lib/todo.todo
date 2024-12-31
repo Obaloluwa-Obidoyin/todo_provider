@@ -1,0 +1,6 @@
+Provider state managnment and Hive local database
+
+- create a simple todo app using provider and hive
+- perform CRUD - CREATE, READ, UPDATE AND DELETE IN HIVE
+- check the added text 
+- dark and light theme using hive 
